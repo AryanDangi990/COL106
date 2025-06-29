@@ -1,0 +1,1 @@
+This is the index file created in the local machine and then is tried to upload on the github using git push
